@@ -15,6 +15,8 @@
 </table>
 
 ## Projects I’m in:
+- [Mycel]
+- [Slinky]
 - [Blockless]
 - [dWallet]
 - [Nibiru]
